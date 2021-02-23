@@ -1,5 +1,7 @@
 git init = iniciar git en una carpeta
 
+checkout = te permite cambiar de rama
+
 push = llevar los datos del pc al repositorio remoto
 
 pull = llevar los datos del repositorio a mi pc
@@ -9,3 +11,5 @@ branch = ver/cambiar de rama
 car = Me muestra la informacion del archivo en consola
 
 git remote -v = saber la url esta vinculada a mi repositorio local
+
+git log --all --graph --decorate --oneline = ver las ramas de forma mas gráfica y sus cambios
