@@ -1,5 +1,11 @@
 git init = iniciar git en una carpeta
 
+git diff = para ver los cambios recientes
+
+git log --all --graph --decorate --oneline = ver las ramas de forma mas gráfica y sus cambios
+
+alias arbolito="git log --all --graph --decorate --oneline"
+
 gitk = abrir en un software la historia de ramas supervisual
 
 checkout = te permite cambiar de rama
@@ -13,8 +19,6 @@ branch = ver/cambiar de rama
 cat = Me muestra la informacion del archivo en consola
 
 git remote -v = saber la url esta vinculada a mi repositorio local
-
-git log --all --graph --decorate --oneline = ver las ramas de forma mas gráfica y sus cambios
 
 git tag -a v0.1 -m "descripción del tag" (serial del tag) = para crear nuevos tags
 
