@@ -26,7 +26,6 @@ git show-branch --all = cuales son las ramas que existen y cual es su historia
 
 git reset --merge = para cancelar un merge
 
-<<<<<<< HEAD
 mkdir = Crear nueva carpeta
 
 git config --list = Ver la configuración global del git
@@ -37,10 +36,4 @@ git config --global user.email"@gmail" = cambiar el email global
 
 git log --stat = ver que commit y archivo se modificaron y quien lo hizo
 
-
-
-
-
-=======
 git config --list = para ver las configuciones email/user
->>>>>>> header
