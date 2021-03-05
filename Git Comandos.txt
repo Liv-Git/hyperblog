@@ -25,3 +25,5 @@ git tag -a v0.1 -m "descripción del tag" (serial del tag) = para crear nuevos t
 git show-branch --all = cuales son las ramas que existen y cual es su historia
 
 git reset --merge = para cancelar un merge
+
+git config --list = para ver las configuciones email/user
