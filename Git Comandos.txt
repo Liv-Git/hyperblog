@@ -4,7 +4,7 @@ git diff = para ver los cambios recientes
 
 git log --all --graph --decorate --oneline = ver las ramas de forma mas gráfica y sus cambios
 
-alias arbolito="git log --all --graph --decorate --oneline"
+alias arbolito="git log --all --graph --decorate --oneline" = para hacerle alias o tag al comando
 
 gitk = abrir en un software la historia de ramas supervisual
 
