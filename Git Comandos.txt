@@ -36,4 +36,4 @@ git config --global user.email"@gmail" = cambiar el email global
 
 git log --stat = ver que commit y archivo se modificaron y quien lo hizo
 
-git config --list = para ver las configuciones email/user
+git merge ("nombre de la rama que se fusionara con la que estas ahora")
