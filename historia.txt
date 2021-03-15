@@ -6,5 +6,5 @@ Anita Platzi es una persona que contribuye a este proyecto open source y nació 
 
 mañana nos enfocaremos en su vida laboral
 
-//probando email
+//probando email a outlook
 
