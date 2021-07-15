@@ -37,3 +37,7 @@ git config --global user.email"@gmail" = cambiar el email global
 git log --stat = ver que commit y archivo se modificaron y quien lo hizo
 
 git merge ("nombre de la rama que se fusionara con la que estas ahora")
+
+eval $(ssh-agent -s) = comando para ver si estan activadas las llaves ssh;
+
+ssh-keygen -t rsa -b 4096 -C "liv.spaceme@gmail.com" = sirve para crear llaves ssh;
